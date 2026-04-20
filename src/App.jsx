@@ -32,7 +32,7 @@ export default function App() {
 
   return (
     <div>
-      <h1>FoodFacts</h1>
+      <h1>FoodFacts-app</h1>
 
       <SearchBar onSearch={handleSearch} />
 
